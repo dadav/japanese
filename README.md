@@ -51,4 +51,4 @@
 | Das ist falsch. | それはまちがいです。|
 | Das ist richtig. | ただしいです。|
 | Wir haben unser bestes gegeben!  | がんばたね |
-| Wir haben viel gelernt | たくさんべんきょうしたね。|
+| Wir haben viel gelernt. | たくさんべんきょうしたね。|
