@@ -17,7 +17,7 @@
 | Ist meine Aussprache richtig? | 私のはつおんはただしいですか？ |
 | Wie kann man diesen Kanji lesen? | この漢字はどうよみますか？ |
 | Wo liegt bei dem Wort `<Wort>` die Betonung? | `「なになに」`のストレスはどこですか？ |
-| Könntest du bitte diesen Satz vorlesen? | この文をよんでもらいますか。|
+| Könntest du bitte diesen Satz vorlesen? | この文をよんでもらえますか。|
 
 
 ## Bitte noch einmal!
