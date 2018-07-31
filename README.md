@@ -34,7 +34,7 @@
 
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
-| Bedeutet `<Wort 1>` das Gleiche wie `<Wort 2>`? ||
+| Bedeutet `<Wort 1>` das Gleiche wie `<Wort 2>`? | `「なになに」`と`「なになに」`のいみはおなじですか？|
 | Haben `<Wort 1>` und `<Wort 2>` die gleiche Bedeutung? ||
 | Was ist der Unterschied zwischen `<Wort 1>` und `<Wort 2>` ||
 | Worin unterscheiden sich `<Wort 1>` und `<Wort 2>`? ||
