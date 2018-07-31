@@ -47,7 +47,7 @@
 | ------------- | ------------- |
 | Möchtest du eine Pause machen? | すこしやすみましょうか。|
 | Lass uns eine Pause machen. | すこしやすみましょう。|
-| Ich kann mich nicht mehr konzentrieren. | もうしゅうちゅうできません。 |
+| Ich kann mich nicht mehr konzentrieren. | もう、しゅうちゅうできません。 |
 | Können wir diese Aufgaben zusammen machen? | このもんだいをしましょう？|
 | Das ist falsch. | それはまちがいです。|
 | Das ist richtig. | ただしいです。|
