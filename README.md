@@ -48,8 +48,8 @@
 | Möchtest du eine Pause machen? | すこしやすみましょうか。|
 | Lass uns eine Pause machen. | すこしやすみましょう。|
 | Ich kann mich nicht mehr konzentrieren. | もうしゅうちゅうできません。 |
+| Können wir diese Aufgaben zusammen machen? | このもんだいをしましょう？|
 | Das ist falsch. | それはまちがいです。|
 | Das ist richtig. | ただしいです。|
 | Wir haben unser bestes gegeben!  | がんばたね。 |
 | Wir haben viel gelernt. | たくさんべんきょうしたね。|
-| Können wir diese Aufgaben zusammen machen? | このもんだいをしましょう？|
