@@ -7,7 +7,7 @@
 | Wie kann ich `<Wort/Satz>` auf Deutsch/Japanisch sagen?  | `「なになに」`はドイツ語でどういいますか？ |
 | Gibt es noch ein anderes Wort für `<Wort>`? |`「なになに」`のほかの言い方はありますか? |
 | Könntest du mir bitte das `<Wort>` erklären? | `「なになに」`のいみを教えてください。|
-| Heißt es der, die oder das `<Wort>`? | Der, die, das `「なになに」`、どれですか？ |
+| Heißt es der, die oder das `<Wort>`? | `「なになに」`は der, die, das、どれですか？ |
 
 
 ## Aussprache
