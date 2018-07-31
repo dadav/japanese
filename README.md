@@ -6,7 +6,7 @@
 | Was heißt `<Wort/Satz>` auf Deutsch/Japanisch?  | `「なになに」`は日本語でなんですか? |
 | Wie kann ich `<Wort/Satz>` auf Deutsch/Japanisch sagen?  | `「なになに」`はドイツ語でどういいますか？ |
 | Gibt es noch ein anderes Wort für `<Wort>`? |`「なになに」`のほかの言い方はありますか? |
-| Könntest du mir bitte das `<Wort>` erklären? | `「なになに」`のいみをおしえてください。|
+| Könntest du mir bitte das `<Wort>` erklären? | `「なになに」`のいみを教えてください。|
 | Heißt es der, die oder das `<Wort>`? | Der, die, das `「なになに」`、どれですか？ |
 
 
@@ -14,7 +14,8 @@
 
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
-| Ist meine Aussprache richtig? | |
+| Ist meine Aussprache richtig? | 私のはつおんはただしですか？  |
+| Wie kann man diesen Kanji lesen? | この漢字はどうよみますか？ |
 | Wo liegt die Betonung bei dem Wort `<Wort>`? | |
 | Spreche ich `<Wort>` richtig aus? | |
 | Könntest du bitte diesen Satz vorlesen? | |
