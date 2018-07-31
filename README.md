@@ -16,7 +16,7 @@
 | ------------- | ------------- |
 | Ist meine Aussprache richtig? | 私のはつおんはただしいですか？ |
 | Wie kann man diesen Kanji lesen? | この漢字はどうよみますか？ |
-| Wo liegt bei dem Wort `<Wort>` die Betonung? | `「なになに」`のストレスはどこですか？ |
+| Wo liegt bei dem Wort `<Wort>` die Betonung? | `「なになに」`のはつおんのアクセントはどこですか？ |
 | Könntest du bitte diesen Satz vorlesen? | この文をよんでもらえますか。|
 
 
