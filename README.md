@@ -24,9 +24,9 @@
 
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
-| Das war zu schnell, deshalb habe ich es nicht verstanden. | はやすぎて、わかりませんでした |
-| Könntest du das bitte noch einmal etwas langsamer sagen?  | これは |
-| Bitte sprich etwas langsamer! | もう少しゆっくりはなしてください.  |
+| Das war zu schnell, deshalb habe ich es nicht verstanden. | はやすぎて、わかりませんでした。 |
+| Könntest du das bitte noch einmal etwas langsamer sagen?  | これはもう少しゆっくりはなしてください。 |
+| Bitte sprich etwas langsamer! | もう少しゆっくりはなしてください。  |
 
 
 ## Gleichheit/Unterschied
