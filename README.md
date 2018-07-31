@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 | Was heißt `<Wort/Satz>` auf Deutsch/Japanisch?  | `「なになに」`は日本語でなんですか? |
 | Wie kann ich `<Wort/Satz>` auf Deutsch/Japanisch sagen?  | `「なになに」`はドイツ語でどういいますか？  |
-| Gibt es noch ein anderes Wort für `<Wort>`? | |
+| Gibt es noch ein anderes Wort für `<Wort>`? |`「なになに」`のほかの言い方はありますか?  |
 | Könntest du mir bitte `<Wort>` erklären? | |
 | Heißt es der, die oder das `<Wort>`? | |
 
