@@ -3,8 +3,8 @@
 
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
-| Was heißt `<Wort/Satz>` auf Deutsch/Japanisch?  | 「言葉、文」とドイツ語では何ですか?  |
-| Wie kann ich `<Wort/Satz>` auf Deutsch/Japanisch sagen?  | 「言葉、文」とドイツ語では何ですか？  |
+| Was heißt `<Wort/Satz>` auf Deutsch/Japanisch?  | 「言葉/文」日本語では何ですか? |
+| Wie kann ich `<Wort/Satz>` auf Deutsch/Japanisch sagen?  | 「言葉/文」ドイツ語ではどういいますか？  |
 | Gibt es noch ein anderes Wort für `<Wort>`? | |
 | Könntest du mir bitte `<Wort>` erklären? | |
 | Heißt es der, die oder das `<Wort>`? | |
