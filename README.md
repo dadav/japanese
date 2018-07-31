@@ -27,7 +27,7 @@
 | Das war zu schnell, deshalb habe ich es nicht verstanden. | はやすぎて、わかりませんでした。|
 | Bitte sprich etwas langsamer! | もう少しゆっくりはなしてください。|
 | Bitte nochmal! | もういちどうおねがいします！|
-| Was hast du gesagt? | なんっていましたか？|
+| Was hast du gesagt? | なんていいましたか？|
 
 
 ## Gleichheit/Unterschied
