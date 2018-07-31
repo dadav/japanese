@@ -17,16 +17,15 @@
 | Ist meine Aussprache richtig? | 私のはつおんはただしいですか？  |
 | Wie kann man diesen Kanji lesen? | この漢字はどうよみますか？ |
 | Wo liegt bei dem Wort `<Wort>` die Betonung? | `「なになに」`のストレスはどこですか？ |
-| Könntest du bitte diesen Satz vorlesen? | この文をよんでください？  |
+| Könntest du bitte diesen Satz vorlesen? | この文をよんでください？ |
 
 
 ## Bitte noch einmal!
 
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
-| Das war zu schnell. Ich habe das nicht verstanden. ||
 | Könntest du das bitte noch einmal etwas langsamer sagen?  |  |
-| Bitte sprich etwas langsamer! | |
+| Bitte sprich etwas langsamer! | もう少しゆっくりなしてください.  |
 
 
 ## Gleichheit/Unterschied
