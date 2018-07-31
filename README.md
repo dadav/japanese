@@ -50,5 +50,6 @@
 | Ich kann mich nicht mehr konzentrieren. | もうしゅうちゅうできません。 |
 | Das ist falsch. | それはまちがいです。|
 | Das ist richtig. | ただしいです。|
-| Wir haben unser bestes gegeben!  | がんばたね |
+| Wir haben unser bestes gegeben!  | がんばたね。 |
 | Wir haben viel gelernt. | たくさんべんきょうしたね。|
+| Können wir diese Aufgaben zusammen machen? | このもんだいをしましょう？|
