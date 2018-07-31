@@ -14,7 +14,7 @@
 
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
-| Ist meine Aussprache richtig? | 私のはつおんはただしいですか？  |
+| Ist meine Aussprache richtig? | 私のはつおんはただしいですか？ |
 | Wie kann man diesen Kanji lesen? | この漢字はどうよみますか？ |
 | Wo liegt bei dem Wort `<Wort>` die Betonung? | `「なになに」`のストレスはどこですか？ |
 | Könntest du bitte diesen Satz vorlesen? | この文をよんでください。|
@@ -34,20 +34,19 @@
 
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
-| Bedeutet `<Wort 1>` das Gleiche wie `<Wort 2>`? | `「なになに」`と`「なになに」`のいみはおなじですか？|
-| Was ist der Unterschied zwischen `<Wort 1>` und `<Wort 2>`. |`「なになに」`と`「なになに」`はどうちがいますか？  |
-| Wieso heißt es `<Wort 1>` und nicht `<Wort 2>`? | どうして`「なになに1」`といいますか？`「なになに2」`ははだめですか？  |
+| Bedeutet `<Wort 1>` das Gleiche wie `<Wort 2>`? | `「なになに」`と`「なになに」`のいみはおなじですか？ |
+| Was ist der Unterschied zwischen `<Wort 1>` und `<Wort 2>`. |`「なになに」`と`「なになに」`はどうちがいますか？ |
+| Wieso heißt es `<Wort 1>` und nicht `<Wort 2>`? | どうして`「なになに1」`といいますか？`「なになに2」`ははだめですか？ |
 | Was ist das Gegenteil von `<Wort>`? | `「なになに」`のはんたいはなんですか？ |
-| `<Wort 1>` ist das Gegenteil von `<Wort 2>`. | `「なになに1」`と`「なになに2」`ははんたいです。 |
+| `<Wort 1>` ist das Gegenteil von `<Wort 2>`. | `「なになに1」`と`「なになに2」`ははんたいです。|
 
 
 ## Anderes
 
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
-| Lass uns eine Pause machen. ||
-| Möchtest du eine Pause machen? ||
-| Ich kann mich nicht mehr konzentrieren. | |
-| Das ist falsch. | |
-| Das ist richtig. | |
-| Gut gemacht. | |
+| Möchtest du eine Pause machen? | すこしやすみましょうか。|
+| Lass uns eine Pause machen. | すこしやすみましょう。|
+| Ich kann mich nicht mehr konzentrieren. | もうしゅうちゅうできません。 |
+| Das ist falsch. | それはまちがいです。|
+| Das ist richtig. | ただしいです。|
