@@ -17,7 +17,7 @@
 | Ist meine Aussprache richtig? | 私のはつおんはただしいですか？  |
 | Wie kann man diesen Kanji lesen? | この漢字はどうよみますか？ |
 | Wo liegt bei dem Wort `<Wort>` die Betonung? | `「なになに」`のストレスはどこですか？ |
-| Könntest du bitte diesen Satz vorlesen? | この文をよんでください？ |
+| Könntest du bitte diesen Satz vorlesen? | この文をよんでください。|
 
 
 ## Bitte noch einmal!
@@ -27,6 +27,8 @@
 | Das war zu schnell, deshalb habe ich es nicht verstanden. | はやすぎて、わかりませんでした。|
 | Bitte sprich etwas langsamer! | もう少しゆっくりはなしてください。|
 | Bitte nochmal! | もういちどうおねがいします！|
+| Was hast du gesagt? | なんていましたか？|
+
 
 ## Gleichheit/Unterschied
 
@@ -42,7 +44,6 @@
 | Was ist das Gegenteil von `<Wort>`? | |
 
 
-
 ## Anderes
 
 | Deutsch  | Japanisch |
@@ -50,3 +51,6 @@
 | Lass uns eine Pause machen. ||
 | Möchtest du eine Pause machen? ||
 | Ich kann mich nicht mehr konzentrieren. | |
+| Das ist falsch. | |
+| Das ist richtig. | |
+| Gut gemacht. | |
