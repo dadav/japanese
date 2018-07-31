@@ -25,7 +25,7 @@
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
 | Das war zu schnell, deshalb habe ich es nicht verstanden. | はやすぎて、わかりませんでした。|
-| Bitte sprich etwas langsamer! | もう少しゆっくりはなしてもらいますか。|
+| Bitte sprich etwas langsamer! | もう少しゆっくりはなしてもらえますか。|
 | Bitte nochmal! | もういちどうおねがいします！|
 | Was hast du gesagt? | なんていいましたか？|
 
@@ -38,7 +38,7 @@
 | Was ist der Unterschied zwischen `<Wort 1>` und `<Wort 2>`. |`「なになに」`と`「なになに」`はどうちがいますか？ |
 | Wieso heißt es `<Wort 1>` und nicht `<Wort 2>`? | どうして`「なになに1」`といいますか？`「なになに2」`ははだめですか？ |
 | Was ist das Gegenteil von `<Wort>`? | `「なになに」`のはんたいはなんですか？ |
-| `<Wort 1>` ist das Gegenteil von `<Wort 2>`. | `「なになに1」`と`「なになに2」`ははんたいです。|
+| `<Wort 1>` ist das Gegenteil von `<Wort 2>`. | `「なになに1」`と`「なになに2」`ははんたいのいみです。|
 
 
 ## Anderes
@@ -51,5 +51,5 @@
 | Können wir diese Aufgaben zusammen machen? | このもんだいをいしょうにしてくれますか？ |
 | Das ist falsch. | それはまちがいです。|
 | Das ist richtig. | ただしいです。|
-| Wir haben unser bestes gegeben!  | がんばたね。 |
+| Wir haben unser bestes gegeben!  | がんばったね。 |
 | Wir haben viel gelernt. | たくさんべんきょうしたね。|
