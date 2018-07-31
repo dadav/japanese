@@ -25,7 +25,7 @@
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
 | Das war zu schnell, deshalb habe ich es nicht verstanden. | はやすぎて、わかりませんでした。|
-| Bitte sprich etwas langsamer! | もう少しゆっくりはなしてください。|
+| Bitte sprich etwas langsamer! | もう少しゆっくりはなしてもらいますか。|
 | Bitte nochmal! | もういちどうおねがいします！|
 | Was hast du gesagt? | なんていいましたか？|
 
