@@ -36,7 +36,6 @@
 | ------------- | ------------- |
 | Bedeutet `<Wort 1>` das Gleiche wie `<Wort 2>`? | `「なになに」`と`「なになに」`のいみはおなじですか？|
 | Was ist der Unterschied zwischen `<Wort 1>` und `<Wort 2>`. |`「なになに」`と`「なになに」`はどうちがいますか？  |
-| Worin unterscheiden sich `<Wort 1>` und `<Wort 2>`? ||
 | Wieso heißt es `<Wort 1>` und nicht `<Wort 2>`? ||
 | `<Wort 1>` und `<Wort 2>` haben nicht die gleiche Bedeutung! | |
 | `<Wort 1>` ist das Gegenteil von `<Wort 2>` | |
