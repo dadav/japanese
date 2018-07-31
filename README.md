@@ -14,7 +14,7 @@
 
 | Deutsch  | Japanisch |
 | ------------- | ------------- |
-| Ist meine Aussprache richtig? | 私のはつおんはただしですか？  |
+| Ist meine Aussprache richtig? | 私のはつおんはただしいですか？  |
 | Wie kann man diesen Kanji lesen? | この漢字はどうよみますか？ |
 | Wo liegt bei dem Wort `<Wort>` die Betonung? | `「なになに」`のストレスはどこですか？ |
 | Spreche ich `<Wort>` richtig aus? |   |
