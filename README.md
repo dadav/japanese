@@ -8,6 +8,7 @@
 | Gibt es noch ein anderes Wort für `<Wort>`? |`「なになに」`のほかの言い方はありますか? |
 | Könntest du mir bitte das `<Wort>` erklären? | `「なになに」`のいみを教えてください。|
 | Heißt es der, die oder das `<Wort>`? | `「なになに」`は der, die, das、どれですか？ |
+| Welches Wort benutzt man öfter? `<Wort 1>` oder `<Wort 2>`? | `「なになに」`と`「なになに」`はどっちをよくつかいますか？ |
 | Kannst du bitte ein Beispielsatz machen? | 例文をつくってもらえますか？ |
 
 
