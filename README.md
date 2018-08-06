@@ -70,4 +70,4 @@
 | Das ist ein nützlicher Ausdruck, nicht wahr? | これはべんりなひょうげんですね。 |
 | Bis um wie viel Uhr möchtest du heute lernen? | 今日は何時まで勉強しますか？|
 | Wann möchtest du das nächste Mal lernen? | 次はいつ勉強しますか？ |
-| Wir treffen uns um `<Uhrzeit>` Uhr bei `<Ort>`. | `<とき>`に`<ことろ>`で会いましょう。|
+| Wir treffen uns um `<Uhrzeit>` Uhr bei `<Ort>`. | `<とき>`に`<ところ>`で会いましょう。|
