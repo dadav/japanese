@@ -1,0 +1,8 @@
+#!/bin/bash
+# Das Skript wandelt Markdown zu PDF um 
+
+## Install
+### pip install --user grip
+### sudo pacman -S wkhtmltopdf
+
+grip --export "${1:-README.md}" - | wkhtmltopdf - "${2:-PRINT.pdf}"
