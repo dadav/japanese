@@ -10,8 +10,7 @@
 | Heißt es der, die oder das `<Wort>`? | `「なになに」`は der, die, das、どれですか？ |
 | Kannst du bitte einen Beispielsatz machen? | 例文をつくってもらえますか？ |
 | Welches Wort benutzt man öfter? `<Wort 1>` oder `<Wort 2>`? | `「なになに」`と`「なになに」`はどっちをよくつかいますか？ |
-| Wie häufig benutzt du das Wort `<Wort>`? | `「なになに」`はどんな時に使いますか。|
-
+| In welcher Situation benutzt man das Wort `<Wort>`? | `「なになに」`はどんな時に使いますか。|
 
 ## Grammatik
 | Deutsch  | Japanisch |
