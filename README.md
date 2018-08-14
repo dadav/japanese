@@ -35,7 +35,7 @@
 | ------------- | ------------- |
 | Das war zu schnell, deshalb habe ich es nicht verstanden. | はやすぎて、わかりませんでした。|
 | Bitte sprich etwas langsamer! | もう少しゆっくりはなしてもらえますか。|
-| Bitte nochmal! | もういちどうおねがいします！|
+| Bitte nochmal! | もういちどおねがいします！|
 | Was hast du gesagt? | なんていいましたか？|
 
 
